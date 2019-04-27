@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: beige;
+  height:200%;
+  width:100%;
+}
+.login{
+  width: 40%;
+  height: 30%;
+  margin-left: 400px;
+  margin-top:20px;
+}
+.signup{
+  width: 40%;
+  height: 30%;
+  margin-left: 300px;
+  margin-top:20px;
+}
+.row{
+  margin-top:10px;
+}
+.space {
+  margin-left: 50px;
+}
+.btn{
+  color: black;
+  margin-top: 30px;
+}
